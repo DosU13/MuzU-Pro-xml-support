@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="first_test">
+  <properties>
+    <VideoProperties width="32" height="32" fps="15.0" durationSeconds="10.0" />
+    <MusicProperties bpm="128.0" midiPaddingSec="0.0" audioPath="/home/dos_u/Music/2021 09/Funny Song - Bensound_256k.mp3" />
+  </properties>
+</project>
